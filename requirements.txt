@@ -1,0 +1,4 @@
+Django>=5.2
+pandas
+numpy
+# iqoptionapi: ya lo tienes instalado (versión 7.1.1). Si no, arrancar.bat lo instala desde GitHub.
